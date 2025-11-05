@@ -1,9 +1,6 @@
-# concresce
-Community Optimization Network for Coupled Research in Environmental Systems and Computational Exploration
-
 🌍 Concresce
 
-Computational Nexus for Coupled Research in Environmental Systems and Community Exploration
+Community Optimization Nexus for Coupled Research in Environmental Systems and Computational Exploration
 
 🌊 Introduction
 
